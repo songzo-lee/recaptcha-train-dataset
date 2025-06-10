@@ -1,0 +1,101 @@
+query_name,label
+query1,Hydrant
+query2,Palm
+query3,Car
+query4,Chimney
+query5,Bridge
+query6,Chimney
+query7,Motorcycle
+query8,Bicycle
+query9,Chimney
+query10,Palm
+query11,Bus
+query12,Bicycle
+query13,Bus
+query14,Palm
+query15,Bus
+query16,Chimney
+query17,Bicycle
+query18,Traffic Light
+query19,Bicycle
+query20,Bus
+query21,Bridge
+query22,Crosswalk
+query23,Palm
+query24,Car
+query25,Hydrant
+query26,Motorcycle
+query27,Chimney
+query28,Bicycle
+query29,Hydrant
+query30,Car
+query31,Bicycle
+query32,Bridge
+query33,Crosswalk
+query34,Hydrant
+query35,Palm
+query36,Car
+query37,Hydrant
+query38,Car
+query39,Crosswalk
+query40,Hydrant
+query41,Crosswalk
+query42,Bridge
+query43,Traffic Light
+query44,Palm
+query45,Motorcycle
+query46,Bus
+query47,Chimney
+query48,Traffic Light
+query49,Chimney
+query50,Traffic Light
+query51,Crosswalk
+query52,Bicycle
+query53,Motorcycle
+query54,Chimney
+query55,Bicycle
+query56,Crosswalk
+query57,Car
+query58,Bridge
+query59,Motorcycle
+query60,Bus
+query61,Car
+query62,Hydrant
+query63,Bus
+query64,Traffic Light
+query65,Motorcycle
+query66,Bus
+query67,Bicycle
+query68,Bicycle
+query69,Bicycle
+query70,Bridge
+query71,Palm
+query72,Hydrant
+query73,Traffic Light
+query74,Bus
+query75,Chimney
+query76,Traffic Light
+query77,Motorcycle
+query78,Crosswalk
+query79,Motorcycle
+query80,Palm
+query81,Hydrant
+query82,Motorcycle
+query83,Car
+query84,Bridge
+query85,Car
+query86,Bridge
+query87,Crosswalk
+query88,Palm
+query89,Crosswalk
+query90,Hydrant
+query91,Palm
+query92,Traffic Light
+query93,Traffic Light
+query94,Traffic Light
+query95,Motorcycle
+query96,Bus
+query97,Bicycle
+query98,Car
+query99,Crosswalk
+query100,Chimney
